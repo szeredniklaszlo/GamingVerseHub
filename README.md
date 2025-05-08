@@ -2,6 +2,7 @@
 
 ### Sprint 0
 - [ ] Bevezetés
+- [ ] Java tanulás
 - [ ] Egyszerű függvények létrehozása
 
 
